@@ -65,7 +65,7 @@
             class="navbar-item"
             target="_blank"
             rel="noopener"
-            title="View on github"
+            title="View on githubxxx"
             href="https://github.com/Nandakyaw/goindex"
           >
             <i class="fab fa-github"></i>
